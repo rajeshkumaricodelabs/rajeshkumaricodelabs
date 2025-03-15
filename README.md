@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @rajeshkumaricodelabs
 - 👀 I’m interested in Software Developer Position
 - 🌱 I’m currently learning reactjs 
-- 📫 How to reach me rajesh.kumar@icodelabsco
+- 📫 How to reach me rajesh.kumar@icodelabs.co
 - 😄 Pronouns: he/him
 - ⚡ Fun fact: love to play badminton and doing gardening in leisure time.
 
