@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @rajeshkumaricodelabs
+- 👋 Hi, I’m @rajeshkumarIcodelabs
 - 👀 I’m interested in Software Developer Position
 - 🌱 I’m currently learning reactjs 
 - 📫 How to reach me rajesh.kumar@icodelabs.co
